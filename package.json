@@ -6,7 +6,6 @@
   "repository": "git@github.com:Anish-Shobith/discord-bot-template.git",
   "author": "Anish Shobith P S <anish.shobith19@gmail.com>",
   "engines": {
-    "node": ">=12",
     "npm": "Please use yarn",
     "yarn": ">=1.22.0"
   },
