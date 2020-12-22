@@ -1,12 +1,12 @@
 {
-  "name": "typescript-template",
+  "name": "discord-bot-template",
   "version": "1.0.0",
-  "description": "A typescript template for my typescript projects.",
+  "description": "A dtypescript discord bottemplate for my discord bot projects.",
   "main": "src/index.js",
-  "repository": "git@github.com:Anish-Shobith/typescript-template.git",
+  "repository": "git@github.com:Anish-Shobith/discord-bot-template.git",
   "author": "Anish Shobith P S <anish.shobith19@gmail.com>",
   "engines": {
-    "node": ">=12.0.0 || >=14.0.0",
+    "node": ">=12",
     "npm": "Please use yarn",
     "yarn": ">=1.22.0"
   },
